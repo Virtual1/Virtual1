@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/Virtual1"><img src="https://api.daily.dev/devcards/52e22a3e62924880b134f0ecec1c5c63.png?r=ht8" width="400" alt="Jessica Erasmus's Dev Card"/></a>
+<a href="https://app.daily.dev/Virtual1"><img src="https://api.daily.dev/devcards/52e22a3e62924880b134f0ecec1c5c63.png?r=at5" width="400" alt="Jessica Erasmus's Dev Card"/></a>
 <!--
 **Virtual1/Virtual1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
